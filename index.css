@@ -1,0 +1,77 @@
+
+body {
+    line-height: 1;
+    background-color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4 {
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+header img {
+    height: 65px;
+    width: 100px;
+    margin-left: 2.5em;
+    margin-top: .5em;
+}
+
+section h1 {
+    color: white;
+    font-size: 56px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 2em;
+}
+
+.profiles {
+    display: flex;
+    margin: 6em auto;
+    justify-content: center;
+}
+
+.profiles:hover {
+    color: white;
+}
+
+.profiles img {
+    height: 200px;
+    width: 200px;
+}
+
+.profiles img:hover {
+    border: 5px solid white;
+
+}
+
+.profiles p {
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.user-profile {
+    height: 200px;
+    width:200px;
+    text-align:center;
+    display:block;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float:left;
+}
+
+
+
+

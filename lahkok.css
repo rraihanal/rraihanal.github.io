@@ -1,0 +1,125 @@
+
+body {
+    line-height: 1;
+    background-color: #2A2727;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+
+header img {
+    height: 65px;
+    width: 100px;
+    margin-left: 2.5em;
+    margin-top: .5em;
+}
+
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 40px 80px;
+    margin: 40px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h2 {
+    color: white;
+}
+
+h2 a {
+    color: #8B8BC3;
+}
+
+
+#pertama {
+    background-color: #FF5722;
+}
+
+#kedua {
+    background-color: #FF9800;
+}
+
+#ketiga {
+    background-color: #FFC107;
+}
+
+#keempat {
+    background-color: #FFEB3B;
+}
+
+#kelima {
+    background-color: #CDDC39;
+}
+
+#keenam {
+    background-color: #8BC34A;
+}
+
+#ketujuh {
+    background-color: #4CAF50;
+}
+
+#kedelapan {
+    background-color: #009688;
+}
+
+#kesembilan {
+    background-color: #00BCD4;
+}
+
+#kesepuluh {
+    background-color: #03A9F4;
+}
+
+#kesebelas {
+    background-color: #2196F3;
+}
+
+#keduabelas {
+    background-color: #3F51B5;
+}
+
+#ketigabelas {
+    background-color: #673AB7;
+}
+
+#keempatbelas {
+    background-color: #9C27B0;
+}
+
+#kelimabelas {
+    background-color: #E81E63;
+}
+
+#keenambelas {
+    background-color: #F44336;
+}
+
+
+
+
+
+
+
+
+
+
+
+
